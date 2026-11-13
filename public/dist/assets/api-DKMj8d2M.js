@@ -1,0 +1,1 @@
+async function e(o,a={}){const n=await fetch("/api"+o,{credentials:"same-origin",headers:{"Content-Type":"application/json"},...a}),t=await n.json();if(!n.ok)throw new Error(t.error||"Falha de conexão");return t}const r=(o,a)=>e(o,{method:"POST",body:JSON.stringify(a)});export{e as a,r as p};

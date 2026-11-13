@@ -1,0 +1,15 @@
+{
+  "id": "ring",
+  "name": "Ring",
+  "description": "Acessório equipável.",
+  "type": "accessory",
+  "itemType": "Ring",
+  "rarity": "common",
+  "icon": "/assets/items/anel/ring.gif",
+  "stats": {
+    "physicalDefense": 1
+  },
+  "stackable": false,
+  "maxStack": 1,
+  "sellPrice": 15
+}

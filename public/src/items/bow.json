@@ -1,0 +1,32 @@
+{
+  "id": "bow",
+  "name": "Wooden Bow",
+  "description": "Um arco simples que dispara flechas.",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "subtype": "bow",
+  "weaponClass": "bow",
+  "rarity": "common",
+  "icon": "/assets/items/ranged/Bow.gif",
+  "combat": {
+    "range": 240,
+    "attackCooldown": 1200,
+    "projectile": "missile_3",
+    "projectileSpeed": 350,
+    "ammoType": "arrow",
+    "ammoCost": 1,
+    "manaCost": 0
+  },
+  "stats": {
+    "physicalAttack": 7,
+    "magicalAttack": 0,
+    "physicalDefense": 0,
+    "magicalDefense": 0,
+    "health": 0,
+    "mana": 0,
+    "moveSpeed": 0
+  },
+  "stackable": false,
+  "maxStack": 1,
+  "sellPrice": 15
+}

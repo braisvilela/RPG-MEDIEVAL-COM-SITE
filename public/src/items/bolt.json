@@ -1,0 +1,16 @@
+{
+  "id": "bolt",
+  "name": "Bolt",
+  "description": "Bolt",
+  "type": "consumable",
+  "itemType": "Ammo",
+  "rarity": "common",
+  "icon": "/assets/items/municao/Bolt.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {
+    "physicalAttack": 0,
+    "magicalAttack": 0
+  },
+  "sellPrice": 1
+}

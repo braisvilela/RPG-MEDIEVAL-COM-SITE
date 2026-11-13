@@ -1,0 +1,28 @@
+{
+  "id": "throwing_knife",
+  "name": "Throwing Knife",
+  "description": "Throwing Knife",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "rarity": "common",
+  "icon": "/assets/items/ranged/Throwing_Knife.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {
+    "physicalAttack": 7,
+    "magicalAttack": 0
+  },
+  "sellPrice": 1,
+  "weaponClass": "throwing",
+  "subtype": "knife",
+  "combat": {
+    "range": 220,
+    "attackCooldown": 1100,
+    "projectile": "missile_9",
+    "projectileSpeed": 350,
+    "ammoType": null,
+    "ammoCost": 0,
+    "consumeEquipped": true,
+    "manaCost": 0
+  }
+}

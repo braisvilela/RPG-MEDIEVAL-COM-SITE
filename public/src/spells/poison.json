@@ -1,0 +1,12 @@
+{
+  "id": "poison",
+  "name": "Poison",
+  "type": "damage_over_time",
+  "damageType": "nature",
+  "manaCost": 20,
+  "range": 200,
+  "cooldown": 5000,
+  "duration": 10000,
+  "tickInterval": 1000,
+  "damagePerTick": 5
+}

@@ -1,0 +1,37 @@
+Monstros a serem adicionados:
+Zumbi
+Frankenstein
+Monstro Cabeça de Abobora (Jack O Lantern)
+Vampiro
+Goblin
+Orc
+Troll
+Alien
+Minotaur
+Boarman (Variação de Homem Porco)
+Wartotaur (Variação de Homem Porco)
+Homem Lobo
+Homem Rato
+Homem Porco
+Homem Coelho
+Homem Rato
+Homem Ovelha
+Cyclope
+Anjo
+Demonio
+Amazona
+Vikings
+
+Elfo
+Necromante
+Skeleton Knight
+Skeleton Mage
+Undead Knight
+
+Bandido
+Pirata
+Gladiador
+Bruxa
+Assassino
+Mumia
+Lenhador

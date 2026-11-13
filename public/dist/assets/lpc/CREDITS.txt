@@ -1,0 +1,3 @@
+LPC assets selected from Universal LPC Spritesheet Character Generator.
+https://github.com/liberatedpixelcup/Universal-LPC-Spritesheet-Character-Generator
+Check upstream attribution and licensing requirements before redistribution.

@@ -1,0 +1,312 @@
+{
+  "spawns": [
+    {
+      "id": "skeleton_spawn_001",
+      "monsterId": "skeleton",
+      "position": {
+        "x": 10,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_red_skeleton",
+      "monsterId": "red_skeleton",
+      "position": {
+        "x": 15,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_white_lizard",
+      "monsterId": "white_lizard",
+      "position": {
+        "x": 20,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_yellow_skeleton",
+      "monsterId": "yellow_skeleton",
+      "position": {
+        "x": 25,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_black_skeleton",
+      "monsterId": "black_skeleton",
+      "position": {
+        "x": 30,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_dark_lizard",
+      "monsterId": "dark_lizard",
+      "position": {
+        "x": 35,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_gold_lizard",
+      "monsterId": "gold_lizard",
+      "position": {
+        "x": 40,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_green_lizard",
+      "monsterId": "green_lizard",
+      "position": {
+        "x": 45,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_green_skeleton",
+      "monsterId": "green_skeleton",
+      "position": {
+        "x": 50,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_ice_skeleton",
+      "monsterId": "ice_skeleton",
+      "position": {
+        "x": 55,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_001_purple_skeleton",
+      "monsterId": "purple_skeleton",
+      "position": {
+        "x": 60,
+        "y": 10
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    {
+      "id": "skeleton_spawn_002",
+      "monsterId": "skeleton",
+      "position": {
+        "x": 20,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_red_skeleton",
+      "monsterId": "red_skeleton",
+      "position": {
+        "x": 25,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_white_lizard",
+      "monsterId": "white_lizard",
+      "position": {
+        "x": 30,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_yellow_skeleton",
+      "monsterId": "yellow_skeleton",
+      "position": {
+        "x": 35,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_black_skeleton",
+      "monsterId": "black_skeleton",
+      "position": {
+        "x": 40,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_dark_lizard",
+      "monsterId": "dark_lizard",
+      "position": {
+        "x": 45,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_gold_lizard",
+      "monsterId": "gold_lizard",
+      "position": {
+        "x": 50,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_green_lizard",
+      "monsterId": "green_lizard",
+      "position": {
+        "x": 55,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_green_skeleton",
+      "monsterId": "green_skeleton",
+      "position": {
+        "x": 60,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_ice_skeleton",
+      "monsterId": "ice_skeleton",
+      "position": {
+        "x": 65,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    {
+      "id": "skeleton_spawn_002_purple_skeleton",
+      "monsterId": "purple_skeleton",
+      "position": {
+        "x": 70,
+        "y": 20
+      },
+      "maxAlive": 1,
+      "respawnCooldown": 8000,
+      "levelRange": {
+        "min": 5,
+        "max": 10
+      }
+    }
+  ]
+}

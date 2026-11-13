@@ -1,0 +1,16 @@
+{
+  "id": "skull",
+  "name": "Skull",
+  "description": "Skull",
+  "type": "loot",
+  "itemType": "Loot",
+  "rarity": "common",
+  "icon": "/assets/items/drops/Skull.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {
+    "physicalAttack": 0,
+    "magicalAttack": 0
+  },
+  "sellPrice": 15
+}

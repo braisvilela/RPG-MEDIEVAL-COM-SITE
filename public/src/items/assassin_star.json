@@ -1,0 +1,28 @@
+{
+  "id": "assassin_star",
+  "name": "Assassin Star",
+  "description": "Assassin Star",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "rarity": "common",
+  "icon": "/assets/items/ranged/Assassin_Star.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {
+    "physicalAttack": 7,
+    "magicalAttack": 0
+  },
+  "sellPrice": 1,
+  "weaponClass": "throwing",
+  "subtype": "star",
+  "combat": {
+    "range": 220,
+    "attackCooldown": 1100,
+    "projectile": "missile_19",
+    "projectileSpeed": 350,
+    "ammoType": null,
+    "ammoCost": 0,
+    "consumeEquipped": true,
+    "manaCost": 0
+  }
+}

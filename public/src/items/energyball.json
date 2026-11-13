@@ -1,0 +1,28 @@
+{
+  "id": "energyball",
+  "name": "Energy Ball",
+  "description": "Energy Ball",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "rarity": "common",
+  "icon": "/assets/items/ranged/energyball.gif",
+  "stackable": false,
+  "maxStack": 1,
+  "stats": {
+    "physicalAttack": 0,
+    "magicalAttack": 7
+  },
+  "sellPrice": 1,
+  "weaponClass": "magic",
+  "subtype": "energyball",
+  "combat": {
+    "range": 220,
+    "attackCooldown": 1100,
+    "projectile": "missile_35",
+    "projectileSpeed": 350,
+    "ammoType": null,
+    "ammoCost": 0,
+    "consumeEquipped": false,
+    "manaCost": 1
+  }
+}

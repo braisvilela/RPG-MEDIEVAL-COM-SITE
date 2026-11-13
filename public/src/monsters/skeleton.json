@@ -1,0 +1,82 @@
+{
+  "id": "skeleton",
+  "name": "Skeleton",
+  "race": "undead",
+  "type": "normal",
+  "level": {
+    "min": 1,
+    "max": 10,
+    "bossAt": 10
+  },
+  "stats": {
+    "health": 50,
+    "physicalAttack": 8,
+    "magicalAttack": 0,
+    "physicalDefense": 3,
+    "magicalDefense": 2,
+    "moveSpeed": 80,
+    "criticalChance": 0.02,
+    "attackSpeed": 1,
+    "aggroRange": 120
+  },
+  "corpse": {
+    "duration": 60000,
+    "lootable": true
+  },
+  "respawn": {
+    "enabled": true,
+    "cooldown": 60000
+  },
+  "scaling": {
+    "healthPerLevel": 12,
+    "physicalAttackPerLevel": 2,
+    "physicalDefensePerLevel": 1,
+    "magicalDefensePerLevel": 1
+  },
+  "rewards": {
+    "experience": 15,
+    "gold": {
+      "min": 2,
+      "max": 5
+    }
+  },
+  "boss": {
+    "name": "Boss Skeleton",
+    "enabled": true,
+    "statMultiplier": 2,
+    "experienceMultiplier": 2,
+    "lootQuantityMultiplier": 2
+  },
+  "damageModifiers": {
+    "weaknesses": {
+      "light": 1.5
+    },
+    "resistances": {
+      "dark": 0.5
+    }
+  },
+  "drops": [
+    {
+      "itemId": "bone",
+      "chance": 50,
+      "quantity": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "itemId": "skull",
+      "chance": 25,
+      "quantity": {
+        "min": 1,
+        "max": 2
+      }
+    }
+  ],
+  "patrol": {
+    "enabled": true,
+    "distance": 2,
+    "speed": 80,
+    "pause": 350
+  }
+}

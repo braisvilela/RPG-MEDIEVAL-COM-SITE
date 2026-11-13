@@ -1,0 +1,9 @@
+NOVIDADE: NOVOS MONSTROS, ARMAS ALEATÓRIAS E BESTIÁRIO!
+
+O mundo de Crônicas do Reino ficou mais movimentado! Agora você encontra Skeletons de diferentes cores e quatro tipos de Lizard. Cada criatura pode surgir com uma das nove armas corpo a corpo disponíveis e, ao ser derrotada, deixa a própria arma como recompensa.
+
+Também atualizamos o Bestiário do site para apresentar todas as criaturas de teste e adicionamos uma tela de carregamento com barra de progresso para acompanhar a entrada no jogo.
+
+Outras novidades incluem a personalização LPC de personagens, sistema de inventário e loot, comando de criação de itens para testes e melhorias no catálogo de equipamentos.
+
+Esta é uma versão em desenvolvimento: animações e desempenho ainda estão em avaliação.

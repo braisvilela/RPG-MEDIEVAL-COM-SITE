@@ -1,0 +1,31 @@
+{
+    "level": 1,
+    "experience": 0,
+    "experienceToNextLevel": 100,
+
+    "stats": {
+        "health": 10000,
+        "maxHealth": 10000,
+
+        "mana": 50,
+        "maxMana": 50,
+
+        "physicalAttack": 5000,
+        "magicalAttack": 5,
+
+        "physicalDefense": 5,
+        "magicalDefense": 5,
+
+        "moveSpeed": 180,
+
+        "criticalChance": 0.05,
+        "criticalDamage": 1.5,
+
+        "evasion": 0,
+        "accuracy": 100
+    },
+
+    "currency": {
+        "gold": 0
+    }
+}

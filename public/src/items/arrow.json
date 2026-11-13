@@ -1,0 +1,13 @@
+{
+  "id": "arrow",
+  "name": "Arrow",
+  "description": "Munição utilizada por arcos.",
+  "type": "consumable",
+  "itemType": "Ammo",
+  "rarity": "common",
+  "icon": "/assets/items/municao/Arrow.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {},
+  "sellPrice": 1
+}

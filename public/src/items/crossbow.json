@@ -1,0 +1,28 @@
+{
+  "id": "crossbow",
+  "name": "Crossbow",
+  "description": "Crossbow",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "rarity": "common",
+  "icon": "/assets/items/ranged/Crossbow.gif",
+  "stackable": false,
+  "maxStack": 1,
+  "stats": {
+    "physicalAttack": 7,
+    "magicalAttack": 0
+  },
+  "sellPrice": 1,
+  "weaponClass": "bow",
+  "subtype": "crossbow",
+  "combat": {
+    "range": 220,
+    "attackCooldown": 1100,
+    "projectile": "missile_2",
+    "projectileSpeed": 350,
+    "ammoType": "bolt",
+    "ammoCost": 1,
+    "consumeEquipped": false,
+    "manaCost": 0
+  }
+}

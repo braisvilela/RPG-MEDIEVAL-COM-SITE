@@ -1,0 +1,10 @@
+{
+  "id": "paralyze",
+  "name": "Paralyze",
+  "type": "control",
+  "manaCost": 30,
+  "range": 200,
+  "cooldown": 10000,
+  "duration": 3000,
+  "movementMultiplier": 0
+}

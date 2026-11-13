@@ -1,0 +1,13 @@
+{
+  "id": "bone",
+  "name": "Bone",
+  "description": "A simple bone.",
+  "type": "loot",
+  "subtype": "none",
+  "rarity": "common",
+  "icon": "/assets/items/drops/Bone.gif",
+  "stats": {},
+  "stackable": true,
+  "maxStack": 99,
+  "sellPrice": 10
+}

@@ -1,0 +1,28 @@
+{
+  "id": "spear",
+  "name": "Spear",
+  "description": "Spear",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "rarity": "common",
+  "icon": "/assets/items/ranged/Spear.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {
+    "physicalAttack": 7,
+    "magicalAttack": 0
+  },
+  "sellPrice": 1,
+  "weaponClass": "throwing",
+  "subtype": "spear",
+  "combat": {
+    "range": 220,
+    "attackCooldown": 1100,
+    "projectile": "missile_1",
+    "projectileSpeed": 350,
+    "ammoType": null,
+    "ammoCost": 0,
+    "consumeEquipped": true,
+    "manaCost": 0
+  }
+}

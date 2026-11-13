@@ -1,0 +1,15 @@
+{
+  "id": "mana_potion_10",
+  "name": "10% Mana Potion",
+  "type": "consumable",
+  "itemType": "Consumable",
+  "effect": {
+    "resource": "mana",
+    "percent": 10
+  },
+  "icon": "/assets/items/pocoesdemana/10.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {},
+  "sellPrice": 5
+}

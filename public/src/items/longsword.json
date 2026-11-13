@@ -1,0 +1,33 @@
+{
+  "id": "longsword",
+  "name": "Longsword",
+  "description": "Arma corpo a corpo: Longsword.",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "subtype": "longsword",
+  "weaponClass": "melee",
+  "rarity": "common",
+  "icon": "/assets/items/melee/Longsword.gif",
+  "combat": {
+    "range": 48,
+    "attackCooldown": 1000,
+    "projectile": null,
+    "ammoType": null,
+    "ammoCost": 0,
+    "manaCost": 0
+  },
+  "stats": {
+    "physicalAttack": 17,
+    "magicalAttack": 0,
+    "physicalDefense": 0,
+    "magicalDefense": 0,
+    "health": 0,
+    "mana": 0,
+    "moveSpeed": 0
+  },
+  "stackable": false,
+  "maxStack": 1,
+  "sellPrice": 34,
+  "lpcWeapon": "Longsword_longsword",
+  "lpcAttack": "slash"
+}

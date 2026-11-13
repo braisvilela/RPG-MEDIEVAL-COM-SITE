@@ -1,0 +1,15 @@
+{
+  "id": "bronze_amulet",
+  "name": "Bronze Amulet",
+  "description": "Acessório equipável.",
+  "type": "accessory",
+  "itemType": "Amulet",
+  "rarity": "common",
+  "icon": "/assets/items/amuleto/Bronze_Amulet.gif",
+  "stats": {
+    "magicalDefense": 1
+  },
+  "stackable": false,
+  "maxStack": 1,
+  "sellPrice": 15
+}

@@ -1,0 +1,15 @@
+{
+  "id": "heal",
+  "name": "Heal",
+  "description": "Restores the player's health.",
+  "type": "healing",
+  "target": "self",
+  "manaCost": 15,
+  "cooldown": 3000,
+  "castTime": 500,
+  "healing": {
+    "type": "fixed",
+    "value": 30
+  },
+  "animation": "spellcast"
+}

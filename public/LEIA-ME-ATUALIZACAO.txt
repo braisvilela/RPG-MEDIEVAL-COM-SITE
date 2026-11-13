@@ -1,0 +1,9 @@
+ATUALIZAÇÃO PARCIAL - 10/11/2026
+
+Implementado: retirada do botão de personagem de teste e da rota /api/test-character; /i nome do item no chat (sem proteção de administrador, conforme solicitado); dez novas armas corpo a corpo com JSON, ícone e dano provisório.
+
+Exemplos: /i dagger, /i war axe, /i longsword, /i long spear. O comando adiciona 1 unidade, com validação do servidor e limite de mochila.
+
+AINDA NÃO IMPLEMENTADO: skeletons com arma aleatória, renderização LPC de todas as armas, drops vinculados à arma do skeleton. O campo lpcWeapon é apenas metadado preparatório.
+
+Faça backup de server-data. Não copie dist ou node_modules; execute npm run build.

@@ -1,0 +1,107 @@
+Sistemas Atuais do Site:
+
+1. Sistema de Login
+Se Registrar e Logar
+2. Sistema de Noticias
+Postar Noticias com Conta do ADM
+3. Item List 
+Lista de items do jogo
+4. Bestiário
+Todos monstros listados com drops possíveis.
+5. Ranking
+Ranking do servidor.
+
+Sistemas Atuais do Jogo:
+1. Sistema de Chat Local e Global
+Enviar mensagem global custa 50 de gold atualmente.
+2. Chat Log
+Mostra items que dropou e de qual corpo
+3. Sistema de respawn e drop de items
+4. Barra de Vida, Mana e EXP arrastável.
+5. Minimapa
+6. Sistema de inventário
+7. Slots para vários items
+8. Equipar item afeta visual do personagem.
+9. Monstros podem nascer com arma aleatória e o drop é de acordo com o visual que ele nasceu.
+10. NPC de Mark, ele compra seus items.
+11. Sistema de mapa "Tiled"
+12. Armas rangeds tem efeito de projétil a distância.
+13. Sistema de mágias com animação.
+
+Sistemas que serão feitos e adicionados:
+1. Sistema de forjar item.
+(Ainda a ser pensado)
+
+2. Sistema de PVP.
+Player atacar outro player.
+
+3. Sistema de aprimorar items.
+Voce dar upgrade no seu item para ele conseguir ter mais espaço de encantamentos.
+
+4. Sistema de encantar items.
+Voce aplicar várias runas nos items por exemplo dano elemental ou aumentar alguma coisa tipo dano, defesa. Vai ter vários tier de encantamentos para aplicar nos items.
+
+5. Friendlist
+(Ver lista de amigos e ver se está offline e online)
+
+6. Sistema de Party.
+Todos da party recebem exp compartilhado ao derrotar um monstro.
+
+7. Sistema de Pesca.
+
+
+8. Sistema de Trade
+Trocar items com outros players.
+
+9. Sistema de Conquistas e Títulos
+Após matar tantos monstros, voce vai causar dano adicional neles.
+
+10. Quests
+
+11. Adicionar mais mágias
+(Atualmente tem só cura)
+
+12. Sistema de aprender magias
+Em vez de ser um jogo que voce desbloqueia skills em arvore de talentos, voce vai aprender skills com level ou derrotando algum boss e dropando item ou fazendo alguma quest de abrir um baú ou fazendo task.
+
+13. Melhorar sistemas atuais de armas
+Os níveis de destreza do player com as armas está parcialmente pronto
+Por exemplo quanto mais usar uma espada mais vai melhorar sua destreza com esse tipo de arma.
+Quanto mais usar um arco, mais vai melhorar sua destreza com esse tipo de arma.
+
+14. Sistema de upar atributos ao subir de nível
++Dano +Defesa +Vida +Speed +Mana
+
+15. Sistema de andares
+Será possível subir e descer escadas
+
+16. Sistema de Teleport
+Será possível se teleportar até algum lugar do mapa por magia ou item consumível ou pedra de teleport
+
+17. Sistema de Raids
+Do nada spawnar um monte de esqueleto em algum lugar por exemplo e um boss com drop especial.
+
+18. Sistema de Fome e Cede (A ser Aprovado)
+Se o personagem tiver com fome, ele tomar mais dano e causar menos dano por exemplo e se mover mais lento.
+
+19. Configurar Armadura e Adicionar Escudos
+Configurar como funciona a interação de armadura com o dano sofrido.
+
+20. Adicionar sistema de mochila
+Várias mochilas equipáveis que aumenta slots máximo e com visual diferente
+
+21. Sistema de Mineração
+Alguns itens só conseguir minerando pra craftar por exemplo
+
+22. Sistema de Pets
+Pet que luta, que coleta items próximos, que vende items.
+
+23. Sistema de Durabilidade
+Armas desgastam com o tempo reduzindo o dano até não funcionar. Mas repara fácil na forja.
+
+24. Sistema de Dungeons
+Vai ter um portal em cada cidade por exemplo, com o teleport pra um mapa que tem algum loot raro por exemplo.
+
+25. Sistema de baús e chaves
+Baús de madeira, prata, ouro, etc
+Chaves craftáveis com minérios

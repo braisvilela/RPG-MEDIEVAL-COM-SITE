@@ -1,0 +1,33 @@
+{
+  "id": "halberd",
+  "name": "Halberd",
+  "description": "Arma corpo a corpo: Halberd.",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "subtype": "halberd",
+  "weaponClass": "melee",
+  "rarity": "common",
+  "icon": "/assets/items/melee/Halberd.gif",
+  "combat": {
+    "range": 48,
+    "attackCooldown": 1000,
+    "projectile": null,
+    "ammoType": null,
+    "ammoCost": 0,
+    "manaCost": 0
+  },
+  "stats": {
+    "physicalAttack": 21,
+    "magicalAttack": 0,
+    "physicalDefense": 0,
+    "magicalDefense": 0,
+    "health": 0,
+    "mana": 0,
+    "moveSpeed": 0
+  },
+  "stackable": false,
+  "maxStack": 1,
+  "sellPrice": 42,
+  "lpcWeapon": "Halberd_halberd",
+  "lpcAttack": "slash_or_thrust_oversize"
+}

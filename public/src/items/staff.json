@@ -1,0 +1,33 @@
+
+{
+  "id": "staff",
+  "name": "Apprentice Staff",
+  "description": "Um cajado básico que dispara projéteis mágicos.",
+  "type": "weapon",
+  "itemType": "Weapon",
+  "subtype": "staff",
+  "weaponClass": "magic",
+  "rarity": "common",
+  "icon": "/assets/items/staff.png",
+  "combat": {
+    "range": 220,
+    "attackCooldown": 1300,
+    "projectile": "magic_bolt",
+    "projectileSpeed": 300,
+    "ammoType": null,
+    "ammoCost": 0,
+    "manaCost": 1
+  },
+  "stats": {
+    "physicalAttack": 0,
+    "magicalAttack": 9,
+    "physicalDefense": 0,
+    "magicalDefense": 0,
+    "health": 0,
+    "mana": 0,
+    "moveSpeed": 0
+  },
+  "stackable": false,
+  "maxStack": 1,
+  "sellPrice": 20
+}

@@ -1,0 +1,15 @@
+{
+  "id": "health_potion_50",
+  "name": "50% Health Potion",
+  "type": "consumable",
+  "itemType": "Consumable",
+  "effect": {
+    "resource": "health",
+    "percent": 50
+  },
+  "icon": "/assets/items/pocoesdevida/50.gif",
+  "stackable": true,
+  "maxStack": 99,
+  "stats": {},
+  "sellPrice": 5
+}
