@@ -2,8 +2,8 @@
 Um rpg medieval com modo online funcional
 
 Como deixar online:
-1.Instale o NODE.JS
-2.abre a pasta public e vai no cmd primeiro:
+1. Instale o NODE.JS
+2. abre a pasta public e vai no cmd primeiro:
 3. E digite os 3 comandos um por vez:
 4. npm install
 5. npm run build
