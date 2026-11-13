@@ -22,6 +22,9 @@ Sugestão de tilesets gratuitos para adicionar:
 5. https://schwarnhild.itch.io/basic-caves-and-dungeons-tileset-32x32-pixels
 6. https://schwarnhild.itch.io/basic-tileset-and-asset-pack-32x32-pixels
 
+Gerador de personagens:
+1. https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#sex=male&body=Body_Color_light&head=Human_Male_light&expression=Neutral_light
+
 <img width="600" height="600" alt="site3" src="https://github.com/user-attachments/assets/6a54d171-a079-4639-a19f-bc40cf360ae6" />
 <img width="600" height="600" alt="site2" src="https://github.com/user-attachments/assets/325921da-a219-48cd-bad5-fcf0261c904d" />
 <img width="600" height="600" alt="site" src="https://github.com/user-attachments/assets/e4adf749-f9ce-41ad-8b03-1dc74f4c6eaf" />
